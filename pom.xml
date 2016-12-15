@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ed.tutorials</groupId>
-  <artifactId>employees2</artifactId>
+  <artifactId>employees</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>employees</name>
@@ -52,7 +52,7 @@
 		<java.version>1.8</java.version>
 	</properties>
 	<build>
-		<finalName>employees2</finalName>
+		<finalName>employees</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
